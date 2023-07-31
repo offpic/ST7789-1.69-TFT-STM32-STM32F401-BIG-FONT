@@ -1,4 +1,6 @@
 # ST7789-1.69-TFT-STM32-STM32F401-BIG-FONT
 ST7789 1.69 TFT STM32 STM32F401 BIG FONT
 
+https://www.youtube.com/watch?v=YDFkBOPlqyc
+
 ![Screenshot_1](https://github.com/offpic/ST7789-1.69-TFT-STM32-STM32F401-BIG-FONT/assets/31142397/15068922-e6dd-4422-90e5-684bfc9f991d)
